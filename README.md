@@ -27,6 +27,42 @@
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
 
+## Project spotlight
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>CVE DB (PostgreSQL + Python CLI)</b><br/>
+      Educational CVE database: ingest NVD JSON, search, status tracking.
+      <br/><br/>
+      <a href="https://github.com/vladvontranssilvanien/cvedb-pg">
+        <img src="https://img.shields.io/github/stars/vladvontranssilvanien/cvedb-pg?style=social" />
+      </a>
+      <a href="https://github.com/vladvontranssilvanien/cvedb-pg">
+        <img src="https://img.shields.io/github/last-commit/vladvontranssilvanien/cvedb-pg?color=blue" />
+      </a>
+      <a href="https://github.com/vladvontranssilvanien/cvedb-pg">
+        <img src="https://img.shields.io/github/languages/top/vladvontranssilvanien/cvedb-pg" />
+      </a>
+    </td>
+    <td width="50%">
+      <b>React + Vite demo</b><br/>
+      Lightweight front-end scaffold for quick PoCs.
+      <br/><br/>
+      <a href="https://github.com/vladvontranssilvanien/REPO_TWO">
+        <img src="https://img.shields.io/github/stars/vladvontranssilvanien/REPO_TWO?style=social" />
+      </a>
+      <a href="https://github.com/vladvontranssilvanien/REPO_TWO">
+        <img src="https://img.shields.io/github/last-commit/vladvontranssilvanien/REPO_TWO?color=blue" />
+      </a>
+      <a href="https://github.com/vladvontranssilvanien/REPO_TWO">
+        <img src="https://img.shields.io/github/languages/top/vladvontranssilvanien/REPO_TWO" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ## Learning and certifications
 <img src="https://img.shields.io/badge/CompTIA_Security%2B-in_progress-ED1C24?logo=comptia&logoColor=white" />
 <img src="https://img.shields.io/badge/CompTIA_Tech%2B-in_progress-ED1C24?logo=comptia&logoColor=white" />
