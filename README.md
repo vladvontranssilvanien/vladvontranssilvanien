@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Python](https://img.shields.io/badge/Python-3.12-informational)
+![Vlad’s GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
 ![Security](https://img.shields.io/badge/Focus-Cybersecurity-blue)
 
 
