@@ -27,32 +27,37 @@
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
 
+## Learning and certifications
+<img src="https://img.shields.io/badge/CompTIA_Security%2B-in_progress-ED1C24?logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA_Tech%2B-in_progress-ED1C24?logo=comptia&logoColor=white" />
+
 ## Project spotlight
+<div align="center">
 
 <table>
   <tr>
-    <td width="50%">
+    <td align="center" width="100%">
       <b>CVE DB (PostgreSQL + Python CLI)</b><br/>
       Educational CVE database: ingest NVD JSON, search, status tracking.
       <br/><br/>
-      <a href="https://github.com/vladvontranssilvanien/cvedb-pg">
-        <img src="https://img.shields.io/github/stars/vladvontranssilvanien/cvedb-pg?style=social" />
-      </a>
-      <a href="https://github.com/vladvontranssilvanien/cvedb-pg">
-        <img src="https://img.shields.io/github/last-commit/vladvontranssilvanien/cvedb-pg?color=blue" />
-      </a>
-      <a href="https://github.com/vladvontranssilvanien/cvedb-pg">
-        <img src="https://img.shields.io/github/languages/top/vladvontranssilvanien/cvedb-pg" />
-      </a>
+      <p align="center">
+        <a href="https://github.com/vladvontranssilvanien/cvedb-pg">
+          <img alt="Stars" src="https://img.shields.io/github/stars/vladvontranssilvanien/cvedb-pg?style=social" />
+        </a>
+        <a href="https://github.com/vladvontranssilvanien/cvedb-pg">
+          <img alt="Last commit" src="https://img.shields.io/github/last-commit/vladvontranssilvanien/cvedb-pg?color=blue" />
+        </a>
+        <a href="https://github.com/vladvontranssilvanien/cvedb-pg">
+          <img alt="Top language" src="https://img.shields.io/github/languages/top/vladvontranssilvanien/cvedb-pg" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
-## Learning and certifications
-<img src="https://img.shields.io/badge/CompTIA_Security%2B-in_progress-ED1C24?logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/CompTIA_Tech%2B-in_progress-ED1C24?logo=comptia&logoColor=white" />
 </div>
 
+</div>
 
 
 
