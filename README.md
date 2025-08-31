@@ -1,17 +1,34 @@
-## Hi there 👋 
+# Hi, I’m Vlad von Transsilvanien
+Cybersecurity analyst in training. Shipping secure-by-default labs and playbooks.
+
+## Focus
 ![Security](https://img.shields.io/badge/Focus-Cybersecurity-blue)
+
+## Core stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+## Network and monitoring
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
+
+## AppSec and containers
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+## Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+## Learning and certifications
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-Candidate-ED1C24?logo=comptia&logoColor=white)
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=USERNAME.USERNAME)
+![CompTIA Tech+](https://img.shields.io/badge/CompTIA_Tech%2B-Candidate-ED1C24?logo=comptia&logoColor=white)
+
+## Profile
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=vladvontranssilvanien.vladvontranssilvanien)
+
 <!--
 **vladvontranssilvanien/vladvontranssilvanien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
