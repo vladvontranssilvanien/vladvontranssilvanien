@@ -25,20 +25,9 @@
 <img src="https://img.shields.io/badge/CompTIA_Security%2B-in_progress-ED1C24?logo=comptia&logoColor=white" />
 <img src="https://img.shields.io/badge/CompTIA_Tech%2B-in_progress-ED1C24?logo=comptia&logoColor=white" />
 
-![CI](https://img.shields.io/github/actions/workflow/status/vladvontranssilvanien/cvedb-pg/ci.yml?branch=main)
-
-
 </div>
 
-<details>
-  <summary><b>Dashboards</b>  click to expand</summary>
 
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=vladvontranssilvanien&margin-w=8" alt="Trophies" height="150" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vladvontranssilvanien&radius=12" alt="Activity Graph" height="150" />
-  </p>
-
-</details>
 
 
 
