@@ -1,45 +1,56 @@
-# Hi, I’m Vlad von Transsilvanien
-Cybersecurity analyst in training. 
+<h1 align="center">Hi, I’m Vlad von Transsilvanien</h1>
+<p align="center">Cybersecurity analyst in training.</p>
 
-## Focus
-![Security](https://img.shields.io/badge/Focus-Cybersecurity-blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue" alt="Security" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vladvontranssilvanien.vladvontranssilvanien" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/vladvontranssilvanien?label=Follow&style=social" alt="Followers" />
+</p>
 
-## Core stack
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+<div align="center">
 
-## Network and monitoring
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
-
-## AppSec and containers
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
-## Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+## Core and Security
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
 
 ## Learning and certifications
-![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-Candidate-ED1C24?logo=comptia&logoColor=white)
-![CompTIA Tech+](https://img.shields.io/badge/CompTIA_Tech%2B-Candidate-ED1C24?logo=comptia&logoColor=white)
+<img src="https://img.shields.io/badge/CompTIA_Security%2B-in_progress-ED1C24?logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA_Tech%2B-in_progress-ED1C24?logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/ISO_27001-awareness-2F855A" />
+<img src="https://img.shields.io/badge/NIST_CSF-familiar-805AD5" />
 
-## Profile
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=vladvontranssilvanien.vladvontranssilvanien)
+</div>
 
-<!--
-**vladvontranssilvanien/vladvontranssilvanien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary><b>Dashboards</b>  click to expand</summary>
 
-Here are some ideas to get you started:
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=vladvontranssilvanien&margin-w=8" alt="Trophies" height="150" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vladvontranssilvanien&radius=12" alt="Activity Graph" height="150" />
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+
+<details>
+  <summary><b>Learning trackers</b>  click to expand</summary>
+
+  <p>
+    <img src="https://leetcard.jacoblin.cool/LEETCODE_USERNAME" alt="LeetCode Stats" height="180" />
+    <img src="https://www.codewars.com/users/CODEWARS_USERNAME/badges/small" alt="Codewars badge" />
+  </p>
+
+</details>
+
+<!-- Optional CI status for a specific repo -->
+<p align="center">
+  <img src="https://github.com/vladvontranssilvanien/REPO_NAME/actions/workflows/ci.yml/badge.svg" alt="CI" />
+</p>
+
