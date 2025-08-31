@@ -24,8 +24,8 @@
 ## Learning and certifications
 <img src="https://img.shields.io/badge/CompTIA_Security%2B-in_progress-ED1C24?logo=comptia&logoColor=white" />
 <img src="https://img.shields.io/badge/CompTIA_Tech%2B-in_progress-ED1C24?logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/ISO_27001-awareness-2F855A" />
-<img src="https://img.shields.io/badge/NIST_CSF-familiar-805AD5" />
+
+
 
 </div>
 
@@ -39,18 +39,6 @@
 
 </details>
 
-<details>
-  <summary><b>Learning trackers</b>  click to expand</summary>
 
-  <p>
-    <img src="https://leetcard.jacoblin.cool/LEETCODE_USERNAME" alt="LeetCode Stats" height="180" />
-    <img src="https://www.codewars.com/users/CODEWARS_USERNAME/badges/small" alt="Codewars badge" />
-  </p>
 
-</details>
-
-<!-- Optional CI status for a specific repo -->
-<p align="center">
-  <img src="https://github.com/vladvontranssilvanien/REPO_NAME/actions/workflows/ci.yml/badge.svg" alt="CI" />
-</p>
 
