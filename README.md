@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I’m Vlad von Transsilvanien</h1>
-<p align="center">Cybersecurity analyst in training.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue" alt="Security" />
