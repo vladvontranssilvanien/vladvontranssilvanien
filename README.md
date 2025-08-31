@@ -25,9 +25,8 @@
 <img src="https://img.shields.io/badge/CompTIA_Security%2B-in_progress-ED1C24?logo=comptia&logoColor=white" />
 <img src="https://img.shields.io/badge/CompTIA_Tech%2B-in_progress-ED1C24?logo=comptia&logoColor=white" />
 
-<p align="center">
-  <img src="https://github.com/vladvontranssilvanien/cvedb-pg/actions/workflows/ci.yml/badge.svg" alt="CI" />
-</p>
+![CI](https://img.shields.io/github/actions/workflow/status/vladvontranssilvanien/cvedb-pg/ci.yml?branch=main)
+
 
 </div>
 
