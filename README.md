@@ -1,5 +1,5 @@
 # Hi, I’m Vlad von Transsilvanien
-Cybersecurity analyst in training. Shipping secure-by-default labs and playbooks.
+Cybersecurity analyst in training. 
 
 ## Focus
 ![Security](https://img.shields.io/badge/Focus-Cybersecurity-blue)
