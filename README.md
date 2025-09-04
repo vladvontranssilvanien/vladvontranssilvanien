@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vladvontranssilvanien.vladvontranssilvanien" alt="Profile views" height="60" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vladvontranssilvanien.vladvontranssilvanien&style=plastic" alt="Profile views" height="60" />
   <img src="https://img.shields.io/github/followers/vladvontranssilvanien?label=Followers&style=plastic" alt="Followers" height="60" />
 </p>
 
