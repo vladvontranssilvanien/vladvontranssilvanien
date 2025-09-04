@@ -2,6 +2,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue" alt="Security" />
+</p>
+
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vladvontranssilvanien.vladvontranssilvanien" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/vladvontranssilvanien?label=Followers&style=social" alt="Followers" />
 </p>
