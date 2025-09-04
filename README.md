@@ -1,39 +1,39 @@
 <h1 align="center">Hi, I’m Vlad von Transsilvanien</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=flat" alt="Security" height="60" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=flat" alt="Security" height="60" style="border-radius:30px; padding:5px;" />
 </p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vladvontranssilvanien.vladvontranssilvanien" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/vladvontranssilvanien?label=Followers&style=flat" alt="Followers" height="60" />
+  <img src="https://img.shields.io/github/followers/vladvontranssilvanien?label=Followers&style=flat" alt="Followers" height="60" style="border-radius:30px; padding:5px;" />
 </p>
 
 <div align="center">
 
 ## Core and Security
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" height="60" />
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=flat" height="60" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" height="60" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat" height="60" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" height="60" />
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" height="60" style="border-radius:30px; padding:5px;" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=flat" height="60" style="border-radius:30px; padding:5px;" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" height="60" style="border-radius:30px; padding:5px;" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat" height="60" style="border-radius:30px; padding:5px;" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" height="60" style="border-radius:30px; padding:5px;" />
 <br>
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" height="60" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat" height="60" />
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" height="60" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" height="60" />
-<img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat" height="60" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" height="60" style="border-radius:30px; padding:5px;" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat" height="60" style="border-radius:30px; padding:5px;" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" height="60" style="border-radius:30px; padding:5px;" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" height="60" style="border-radius:30px; padding:5px;" />
+<img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat" height="60" style="border-radius:30px; padding:5px;" />
 
 ## Web stack
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" height="60" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" height="60" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" height="60" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=20232A&style=flat" height="60" />
-<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat" height="60" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" height="60" style="border-radius:30px; padding:5px;" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" height="60" style="border-radius:30px; padding:5px;" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" height="60" style="border-radius:30px; padding:5px;" />
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=20232A&style=flat" height="60" style="border-radius:30px; padding:5px;" />
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat" height="60" style="border-radius:30px; padding:5px;" />
 
 ## Learning and certifications
-<img src="https://img.shields.io/badge/CompTIA_Security%2B-in_progress-ED1C24?logo=comptia&logoColor=white&style=flat" height="60" />
-<img src="https://img.shields.io/badge/CompTIA_Tech%2B-in_progress-ED1C24?logo=comptia&logoColor=white&style=flat" height="60" />
+<img src="https://img.shields.io/badge/CompTIA_Security%2B-in_progress-ED1C24?logo=comptia&logoColor=white&style=flat" height="60" style="border-radius:30px; padding:5px;" />
+<img src="https://img.shields.io/badge/CompTIA_Tech%2B-in_progress-ED1C24?logo=comptia&logoColor=white&style=flat" height="60" style="border-radius:30px; padding:5px;" />
 
 ## Project spotlight
 <div align="center">
@@ -46,13 +46,13 @@
       <br/><br/>
       <p align="center">
         <a href="https://github.com/vladvontranssilvanien/cvedb-pg">
-          <img alt="Stars" src="https://img.shields.io/github/stars/vladvontranssilvanien/cvedb-pg?style=flat" height="60" />
+          <img alt="Stars" src="https://img.shields.io/github/stars/vladvontranssilvanien/cvedb-pg?style=flat" height="60" style="border-radius:30px; padding:5px;" />
         </a>
         <a href="https://github.com/vladvontranssilvanien/cvedb-pg">
-          <img alt="Last commit" src="https://img.shields.io/github/last-commit/vladvontranssilvanien/cvedb-pg?color=blue&style=flat" height="60" />
+          <img alt="Last commit" src="https://img.shields.io/github/last-commit/vladvontranssilvanien/cvedb-pg?color=blue&style=flat" height="60" style="border-radius:30px; padding:5px;" />
         </a>
         <a href="https://github.com/vladvontranssilvanien/cvedb-pg">
-          <img alt="Top language" src="https://img.shields.io/github/languages/top/vladvontranssilvanien/cvedb-pg?style=flat" height="60" />
+          <img alt="Top language" src="https://img.shields.io/github/languages/top/vladvontranssilvanien/cvedb-pg?style=flat" height="60" style="border-radius:30px; padding:5px;" />
         </a>
       </p>
     </td>
@@ -62,6 +62,7 @@
 </div>
 
 </div>
+
 
 
 
