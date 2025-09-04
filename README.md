@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=flat" alt="Security" height="64" />
 </p>
-<br>
 <div align="center">
 
 ## Core and Security
