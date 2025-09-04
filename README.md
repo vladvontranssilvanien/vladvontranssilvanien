@@ -1,39 +1,40 @@
-<h1 align="center">Hi, I’m Vlad von Transsilvanien</h1>
+<h1 align="center">Hi, I’m Vlad</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=plastic" alt="Security" height="60" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=for-the-badge" alt="Security" height="64" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitors-Profile-blue?style=plastic" alt="Profile views" height="60" />
-  <img src="https://img.shields.io/github/followers/vladvontranssilvanien?label=Followers&style=plastic" alt="Followers" height="60" />
+  <!-- Visitor counter with real numbers, same bold style -->
+  <img src="https://hits.sh/github.com/vladvontranssilvanien/vladvontranssilvanien.svg?style=for-the-badge&label=VISITORS&color=blue" alt="Profile views" height="64" />
+  <img src="https://img.shields.io/github/followers/vladvontranssilvanien?label=FOLLOWERS&style=for-the-badge" alt="Followers" height="64" />
 </p>
 
 <div align="center">
 
 ## Core and Security
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=plastic" height="60" />
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=plastic" height="60" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic" height="60" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=plastic" height="60" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=plastic" height="60" />
-<br><br>
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=plastic" height="60" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=plastic" height="60" />
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=plastic" height="60" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=plastic" height="60" />
-<img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=plastic" height="60" />
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="64" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" height="64" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="64" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="64" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="64" />
+<br>
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="64" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" height="64" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="64" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="64" />
+<img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="64" />
 
 ## Web stack
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=plastic" height="60" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=plastic" height="60" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic" height="60" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=20232A&style=plastic" height="60" />
-<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=plastic" height="60" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="64" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="64" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="64" />
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=20232A&style=for-the-badge" height="64" />
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="64" />
 
 ## Learning and certifications
-<img src="https://img.shields.io/badge/CompTIA_Security%2B-in_progress-ED1C24?logo=comptia&logoColor=white&style=plastic" height="60" />
-<img src="https://img.shields.io/badge/CompTIA_Tech%2B-in_progress-ED1C24?logo=comptia&logoColor=white&style=plastic" height="60" />
+<img src="https://img.shields.io/badge/CompTIA_Security%2B-IN_PROGRESS-ED1C24?logo=comptia&logoColor=white&style=for-the-badge" height="64" />
+<img src="https://img.shields.io/badge/CompTIA_Tech%2B-IN_PROGRESS-ED1C24?logo=comptia&logoColor=white&style=for-the-badge" height="64" />
 
 ## Project spotlight
 <div align="center">
@@ -46,13 +47,13 @@
       <br/><br/>
       <p align="center">
         <a href="https://github.com/vladvontranssilvanien/cvedb-pg">
-          <img alt="Stars" src="https://img.shields.io/github/stars/vladvontranssilvanien/cvedb-pg?style=plastic" height="60" />
+          <img alt="Stars" src="https://img.shields.io/github/stars/vladvontranssilvanien/cvedb-pg?style=for-the-badge" height="64" />
         </a>
         <a href="https://github.com/vladvontranssilvanien/cvedb-pg">
-          <img alt="Last commit" src="https://img.shields.io/github/last-commit/vladvontranssilvanien/cvedb-pg?color=blue&style=plastic" height="60" />
+          <img alt="Last commit" src="https://img.shields.io/github/last-commit/vladvontranssilvanien/cvedb-pg?color=blue&style=for-the-badge" height="64" />
         </a>
         <a href="https://github.com/vladvontranssilvanien/cvedb-pg">
-          <img alt="Top language" src="https://img.shields.io/github/languages/top/vladvontranssilvanien/cvedb-pg?style=plastic" height="60" />
+          <img alt="Top language" src="https://img.shields.io/github/languages/top/vladvontranssilvanien/cvedb-pg?style=for-the-badge" height="64" />
         </a>
       </p>
     </td>
