@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <<img src="https://img.shields.io/badge/Visitors-Profile-green?style=plastic" alt="Profile views" height="60" />
+  <img src="https://img.shields.io/badge/Visitors-Profile-blue?style=plastic" alt="Profile views" height="60" />
   <img src="https://img.shields.io/github/followers/vladvontranssilvanien?label=Followers&style=plastic" alt="Followers" height="60" />
 </p>
 
