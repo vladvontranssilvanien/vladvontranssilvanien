@@ -4,12 +4,7 @@
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=flat" alt="Security" height="64" />
 </p>
 
-<p align="center">
-  <!-- Visitor counter with real numbers -->
-  <img src="https://hits.sh/github.com/vladvontranssilvanien/vladvontranssilvanien.svg?style=flat&label=VISITORS&color=blue" alt="Profile views" height="64" />
-  <img src="https://img.shields.io/github/followers/vladvontranssilvanien?label=FOLLOWERS&style=flat" alt="Followers" height="64" />
-</p>
-
+<br><br>
 <div align="center">
 
 ## Core and Security
