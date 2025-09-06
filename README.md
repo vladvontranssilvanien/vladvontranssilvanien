@@ -7,7 +7,6 @@
 </div>
 
 <div align="center">
-
 ## Security Toolkit
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" height="64" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=flat" height="64" />
