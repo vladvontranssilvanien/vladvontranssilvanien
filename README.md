@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I’m Vlad</h1>
 
-<div align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&lines=Cybersecurity+Analyst;Python+Developer;Always+Learning" alt="Typing SVG">
   </a>
-</div>
+</p>
 
 <div align="center">
+  
 ## Security Toolkit
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" height="64" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=flat" height="64" />
