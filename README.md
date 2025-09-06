@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&lines=Cybersecurity+Analyst;Python+Developer;Always+Learning">
   </a>
-</p>
+<p align="center"/>
 
 ## Security Toolkit
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" height="64" />
