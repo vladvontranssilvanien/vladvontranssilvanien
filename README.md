@@ -5,9 +5,8 @@
 </p>
 <div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="600"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&lines=Cybersecurity+Analyst;Python+Developer;Always+Learning)](https://git.io/typing-svg)
+
 
 
 ## Security Toolkit
