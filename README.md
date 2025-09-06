@@ -1,12 +1,8 @@
 <h1 align="center">Hi, I’m Vlad</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=flat" alt="Security" height="64" />
-</p>
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&lines=Cybersecurity+Analyst;Python+Developer;Always+Learning)](https://git.io/typing-svg)
-
+<div align="center">
 
 
 ## Security Toolkit
