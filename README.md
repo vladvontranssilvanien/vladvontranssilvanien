@@ -3,8 +3,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=flat" alt="Security" height="64" />
 </p>
-
 <div align="center">
+
+<p align="center">
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="600"/>
+</p>
+
 
 ## Security Toolkit
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" height="64" />
