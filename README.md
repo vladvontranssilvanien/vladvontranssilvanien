@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I’m Vlad</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&lines=Cybersecurity+Analyst;Python+Developer;Always+Learning" alt="Typing SVG">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=39FF14&center=true&vCenter=true&lines=Cybersecurity+Analyst;Threat+Hunter;SOC+Level+1;Always+Learning" alt="Typing SVG">
 </p>
+
 
 <div align="center">
   
