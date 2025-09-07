@@ -25,10 +25,6 @@
 <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat" height="64" />
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" height="64" />
 <br><br>
-<p align="center">
-  <img src="matrix-neo.gif" width="500" alt="Matrix Rain"/>
-</p>
-
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" height="64" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat" height="64" />
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" height="64" />
