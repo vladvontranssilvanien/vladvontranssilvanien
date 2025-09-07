@@ -20,8 +20,9 @@
 ## Security Toolkit
 
 <p align="center">
-  <img src="https://i.gifer.com/1amw.gif" width="600" alt="Hacker typing fast"/>
+  <img src="https://i.gifer.com/7efs.gif" width="600" alt="Green terminal blinking"/>
 </p>
+
 
 
 
