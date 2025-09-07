@@ -6,8 +6,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=4000&color=39FF14&center=true&vCenter=true&lines=Cybersecurity+Analyst;Threat+Hunter;SOC+Level+1;Always+Learning" alt="Typing SVG">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=28&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=520&lines=Cybersecurity+Analyst;Threat+Hunter;SOC+Level+1;Always+Learning"
+    alt="Typing SVG"
+  />
 </p>
+
 
 <div align="center">
   
