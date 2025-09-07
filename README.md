@@ -1,16 +1,14 @@
-<!-- Title: types once, cursor blinks forever -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=36&duration=700&pause=99999999&color=00FF00&center=true&vCenter=true&repeat=false&delete=false&cursor=true&cursorChar=_&width=620&lines=Hi,+I'm+Vlad"
-    alt="Typing SVG - Name"
+    src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=36&duration=2000&pause=5000&color=00FF00&center=true&vCenter=true&repeat=true&delete=false&cursor=true&cursorChar=_&width=520&lines=Hi,+I'm+Vlad"
+    alt="Typing SVG"
   />
 </p>
 
-<!-- Roles: cycles continuously -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=28&duration=2500&pause=1200&color=00FF00&center=true&vCenter=true&repeat=true&width=620&lines=Cybersecurity+Analyst;Threat+Hunter;SOC+Level+1;Always+Learning"
-    alt="Typing SVG - Roles"
+    src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=28&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=520&lines=Cybersecurity+Analyst;Threat+Hunter;SOC+Level+1;Always+Learning"
+    alt="Typing SVG"
   />
 </p>
 
