@@ -20,11 +20,8 @@
 ## Security Toolkit
 
 <p align="center">
-  <img src="https://i.gifer.com/7efs.gif" width="600" alt="Green terminal blinking"/>
+  <img src="https://i.gifer.com/7VE.gif" width="600" alt="Matrix code rain"/>
 </p>
-
-
-
 
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" height="64" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=flat" height="64" />
