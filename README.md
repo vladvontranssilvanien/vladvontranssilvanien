@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=28&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=520&lines=Cybersecurity+Analyst;Threat+Hunter;SOC+Level+1;Always+Learning"
+    src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=28&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=520&lines=Cybersecurity+Analyst;SOC+Level+1;Always+Learning"
     alt="Typing SVG"
   />
 </p>
