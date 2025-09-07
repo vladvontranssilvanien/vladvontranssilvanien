@@ -1,10 +1,7 @@
-<!-- Title: types once, cursor keeps blinking -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=36&duration=700&pause=99999999&color=00FF00&center=true&vCenter=true&repeat=false&delete=false&cursor=true&cursorChar=_&width=800&lines=Hi,+I'm+Vlad"
-    alt="Typing SVG - Name"
-  />
+  <img src="assets/name-blink.svg" alt="Hi, I'm Vlad (blinking cursor)" />
 </p>
+
 
 <!-- Roles: cycles continuously -->
 <p align="center">
