@@ -4,17 +4,12 @@
     alt="Typing SVG"
   />
 </p>
-
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=28&duration=2250&pause=2000&color=00FF00&center=true&vCenter=true&repeat=true&width=520&lines=Cybersecurity+Analyst;SOC+Level+1;Always+Learning"
     alt="Typing SVG"
   />
 </p>
-
-
-
-
 <div align="center">
   
 ## Security Toolkit
@@ -46,54 +41,6 @@
 ## Learning and Certifications
 <img src="https://img.shields.io/badge/CompTIA_Security%2B-IN_PROGRESS-ED1C24?logo=comptia&logoColor=white&style=flat" height="64" />
 <img src="https://img.shields.io/badge/CompTIA_Tech%2B-IN_PROGRESS-ED1C24?logo=comptia&logoColor=white&style=flat" height="64" />
-
-## Project Spotlight
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="100%">
-      <b>CVE DB (PostgreSQL + Python CLI)</b><br/>
-      Educational CVE database: ingest NVD JSON, search, status tracking.
-      <br/><br/>
-      <p align="center">
-        <a href="https://github.com/vladvontranssilvanien/cvedb-pg">
-          <img alt="Stars" src="https://img.shields.io/github/stars/vladvontranssilvanien/cvedb-pg?style=flat" height="64" />
-        </a>
-        <a href="https://github.com/vladvontranssilvanien/cvedb-pg">
-          <img alt="Last commit" src="https://img.shields.io/github/last-commit/vladvontranssilvanien/cvedb-pg?color=blue&style=flat" height="64" />
-        </a>
-        <a href="https://github.com/vladvontranssilvanien/cvedb-pg">
-          <img alt="Top language" src="https://img.shields.io/github/languages/top/vladvontranssilvanien/cvedb-pg?style=flat" height="64" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" width="100%">
-      <b>Cyber News Web App (Flask + NewsAPI)</b><br/>
-      A web application that fetches and displays the latest cybersecurity news.
-      <br/><br/>
-      <p align="center">
-        <a href="https://github.com/vladvontranssilvanien/cyber-news-web-app">
-          <img alt="Stars" src="https://img.shields.io/github/stars/vladvontranssilvanien/cyber-news-web-app?style=flat" height="64" />
-        </a>
-        <a href="https://github.com/vladvontranssilvanien/cyber-news-web-app">
-          <img alt="Last commit" src="https://img.shields.io/github/last-commit/vladvontranssilvanien/cyber-news-web-app?color=blue&style=flat" height="64" />
-        </a>
-        <a href="https://github.com/vladvontranssilvanien/cyber-news-web-app">
-          <img alt="Top language" src="https://img.shields.io/github/languages/top/vladvontranssilvanien/cyber-news-web-app?style=flat" height="64" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
 </div>
 
 
