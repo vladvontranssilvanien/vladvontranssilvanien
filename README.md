@@ -71,6 +71,27 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <b>Cyber News Web App (Flask + NewsAPI)</b><br/>
+      A web application that fetches and displays the latest cybersecurity news.
+      <br/><br/>
+      <p align="center">
+        <a href="https://github.com/vladvontranssilvanien/cyber-news-web-app">
+          <img alt="Stars" src="https://img.shields.io/github/stars/vladvontranssilvanien/cyber-news-web-app?style=flat" height="64" />
+        </a>
+        <a href="https://github.com/vladvontranssilvanien/cyber-news-web-app">
+          <img alt="Last commit" src="https://img.shields.io/github/last-commit/vladvontranssilvanien/cyber-news-web-app?color=blue&style=flat" height="64" />
+        </a>
+        <a href="https://github.com/vladvontranssilvanien/cyber-news-web-app">
+          <img alt="Top language" src="https://img.shields.io/github/languages/top/vladvontranssilvanien/cyber-news-web-app?style=flat" height="64" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 </div>
