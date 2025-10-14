@@ -11,7 +11,8 @@
   />
 </p>
 <div align="center">
-[![TryHackMe Badge](assets/thm_badge.png)](https://tryhackme.com/p/vladvontranssilvanien)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/vladvontranssilvanien.png)](https://tryhackme.com/p/vladvontranssilvanien)
+
 
 
 
