@@ -11,7 +11,8 @@
   />
 </p>
 <div align="center">
-  
+  [![TryHackMe Badge](assets/thm_badge.png)](https://tryhackme.com/p/USERNAME_TAU_TRYHACKME)
+
 ## Security Toolkit
 
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" height="64" />
