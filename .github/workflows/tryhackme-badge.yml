@@ -1,0 +1,22 @@
+name: TryHackMe Update Badge
+
+on:
+  schedule:
+    - cron: "0 3 * * *"      # zilnic la 03:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write             # necesar ca să poată comite imaginea
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update THM badge image
+        uses: p4p1/tryhackme-badge-workflow@main
+        with:
+          username: "USERNAME_TAU_TRYHACKME"  # ex: vladsec
+          image_path: "assets/thm_badge.png"  # să corespundă cu README
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
