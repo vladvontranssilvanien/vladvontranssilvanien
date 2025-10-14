@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=28&duration=2250&pause=2000&color=00FF00&center=true&vCenter=true&repeat=true&width=520&lines=Cybersecurity+Analyst;SOC+Level+1;Always+Learning"
+    src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=28&duration=2250&pause=2000&color=00FF00&center=true&vCenter=true&repeat=true&width=520&lines=Cybersecurity+Analyst;Always+Learning"
     alt="Typing SVG"
   />
 </p>
