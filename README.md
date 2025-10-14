@@ -11,10 +11,6 @@
   />
 </p>
 <div align="center">
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/vladvontranssilvanien.png)](https://tryhackme.com/p/vladvontranssilvanien)
-
-
-
 
 ## Security Toolkit
 
