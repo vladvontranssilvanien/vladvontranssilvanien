@@ -1,22 +1,35 @@
-name: TryHackMe Update Badge
+name: THM Badge Auto Update
 
 on:
   schedule:
-    - cron: "0 3 * * *"      # zilnic la 03:00 UTC
+    - cron: "0 */6 * * *"   # rulează la fiecare 6 ore
   workflow_dispatch:
 
 permissions:
-  contents: write             # necesar ca să poată comite imaginea
+  contents: write
 
 jobs:
-  update-badge:
+  refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Update THM badge image
-        uses: p4p1/tryhackme-badge-workflow@main
         with:
-          username: "USERNAME_TAU_TRYHACKME"  # ex: vladsec
-          image_path: "assets/thm_badge.png"  # să corespundă cu README
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Download latest THM badge
+        run: |
+          mkdir -p assets
+          curl -sL "https://tryhackme-badges.s3.amazonaws.com/vladvontranssilvanien.png" -o assets/thm_badge.png
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet assets/thm_badge.png; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/thm_badge.png
+          git commit -m "chore: refresh THM badge"
+          git push
+
