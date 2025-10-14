@@ -11,7 +11,6 @@
   />
 </p>
 <div align="center">
-  [![TryHackMe Badge](assets/thm_badge.png)](https://tryhackme.com/p/USERNAME_TAU_TRYHACKME)
 
 ## Security Toolkit
 
