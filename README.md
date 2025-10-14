@@ -11,7 +11,8 @@
   />
 </p>
 <div align="center">
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-View%20Profile-blue?logo=tryhackme)](https://tryhackme.com/p/vladvontranssilvanien)
+[![TryHackMe Badge](assets/thm_badge.png)](https://tryhackme.com/p/vladvontranssilvanien)
+
 
 
 ## Security Toolkit
